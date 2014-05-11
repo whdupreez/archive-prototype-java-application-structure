@@ -32,3 +32,15 @@ Folder structure:
  * API to support structure
  * Provide Maven archetype
  * Maven plugin for packaging
+
+## Todo
+
+ * Inline ASM, CGLib, Objenesis
+ * Basic launcher
+ * Investigate assembly:
+   * Maven assembly
+   * Custom maven package type
+
+## Interesting Ideas
+
+ * spring-loaded
